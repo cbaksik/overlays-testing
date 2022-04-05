@@ -1,0 +1,27 @@
+=LDR  01071cam a2200325   4500
+=001  990030784730203941
+=005  20220405135540.0
+=008  711007s1970\\\\njua\\\\\b\\\\000\0\eng\\
+=010  \\$a^^^72028908^//r84
+=035  \\$a(OCoLC)197315
+=040  \\$aDLC$cDLC$dm.c.$dHMG
+=050  0\$aLB1028$b.E35
+=082  \\$a370/.78
+=110  2\$aEducational Testing Service
+=245  10$aResearch at ETS: projects and publications.$cDavid Loye, editor.
+=260  \\$a[Princeton, N.J.,$cc1970]
+=300  \\$a116 p.$billus.$c28 cm.
+=504  \\$aBibliography: p. 106-116.
+=650  \0$aEducation$xResearch
+=650  \0$aEducational tests and measurements
+=700  1\$aLoye, David,$eed.
+=700  1\$aLoye, David,$eeditor.
+=776  08$iOnline version:$aEducational Testing Service.$tResearch at ETS: projects and publications.$d[Princeton, N.J., ©1970]$w(OCoLC)579718546
+=900  \\$a003078473
+=901  2\$aAPB0765
+=903  \\$aMHAPB07652HU
+=905  \\$aLB^1028
+=911  \\$aWHAT-IF-TESTING
+=948  \\$aORC2755EDGUT1Box00079$b19930527$c19930601
+=998  \\$aNO-OVERLAY
+
