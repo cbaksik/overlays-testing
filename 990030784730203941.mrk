@@ -1,10 +1,10 @@
-=LDR  01524cam a2200397   4500
+=LDR  01567cam a2200409   4500
 =001  990030784730203941
-=005  20220331213021.0
+=005  20220411153534.0
 =008  711007s1970\\\\njua\\\\\b\\\\000\0\eng\\
 =010  \\$a   72028908 
 =035  \\$a(OCoLC)197315$z(OCoLC)1037627525
-=040  \\$aDLC$beng$cDLC$dUBY$dOCLCO$dOCLCF$dOCLCQ$dOCLCO
+=040  \\$aDLC$beng$cDLC$dUBY$dOCLCO$dOCLCF$dOCLCQ$dOCLCO$dmore here$detc
 =050  04$aLB1028$b.E35
 =082  0\$a370/.78
 =110  2\$aEducational Testing Service.
@@ -19,6 +19,7 @@
 =650  \0$aEducational tests and measurements.
 =650  \2$aEducational Measurement
 =650  \6$aTests et mesures en éducation.
+=655  \0$astuff here
 =650  \7$aEducation$xResearch.$2fast$0(OCoLC)fst00902743
 =650  \7$aEducational tests and measurements.$2fast$0(OCoLC)fst00903660
 =776  08$iOnline version:$aEducational Testing Service.$tResearch at ETS: projects and publications.$d[Princeton, N.J., ©1970]$w(OCoLC)579718546
